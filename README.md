@@ -1,5 +1,7 @@
 # Todo Cli
 
+**A simple, fast, and modern Command Line Interface (CLI) application built with Python to manage your daily tasks directly from the terminal.**
+
 [![PyPI](https://img.shields.io/pypi/v/todocli.svg)][pypi status]
 [![Status](https://img.shields.io/pypi/status/todocli.svg)][pypi status]
 [![Python Version](https://img.shields.io/pypi/pyversions/todocli)][pypi status]
@@ -21,11 +23,16 @@
 
 ## Features
 
-- TODO
+* **Add Tasks**: Easily add new tasks to your list (`todocli add`).
+* **View List**: Check all your current tasks with a clean numbered view (`todocli list`).
+* **Mark Completed**: Mark your finished tasks with a check status `[✓]` (`todocli done`).
+* **Delete Tasks**: Remove tasks you no longer need (`todocli delete`).
+* **Persistent Storage**: Automatically saves your tasks locally in a JSON file.
 
 ## Requirements
 
-- TODO
+* **Python** >= 3.10 (kamu menggunakan Python 3.14)
+* **Poetry** (untuk manajemen *dependency* dan *virtual environment*)
 
 ## Installation
 
@@ -36,6 +43,12 @@ $ pip install todocli
 ```
 
 ## Usage
+
+```console
+$ poetry run todocli add "Belajar Python"
+$ poetry run todocli list
+$poetry run todocli done 1
+$ poetry run todocli delete 1
 
 Please see the [Command-line Reference] for details.
 
@@ -53,6 +66,10 @@ _Todo Cli_ is free and open source software.
 
 If you encounter any problems,
 please [file an issue] along with a detailed description.
+
+## Author
+
+**Kinervaaa**
 
 ## Credits
 
