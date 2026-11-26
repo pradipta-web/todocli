@@ -41,6 +41,9 @@ You can install _Todo Cli_ via [pip] from [PyPI]:
 ```console
 $ pip install todocli
 ```
+## Author
+
+**Kinervaaa**
 
 ## Usage
 
@@ -66,10 +69,6 @@ _Todo Cli_ is free and open source software.
 
 If you encounter any problems,
 please [file an issue] along with a detailed description.
-
-## Author
-
-**Kinervaaa**
 
 ## Credits
 
