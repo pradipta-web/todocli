@@ -50,7 +50,7 @@ $ pip install todocli
 ```console
 $ poetry run todocli add "Belajar Python"
 $ poetry run todocli list
-$poetry run todocli done 1
+$ poetry run todocli done 1
 $ poetry run todocli delete 1
 
 Please see the [Command-line Reference] for details.
