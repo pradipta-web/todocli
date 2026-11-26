@@ -1,0 +1,16 @@
+{
+  "_checkout": null,
+  "_output_dir": "C:\\Users\\pradi",
+  "_repo_dir": "C:\\Users\\pradi\\.cookiecutters\\cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Kinervaaa",
+  "copyright_year": "2026",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "pradipta.avrianto@gmail.com",
+  "friendly_name": "Todo Cli",
+  "github_user": "pradipta-web",
+  "license": "MIT",
+  "package_name": "todocli",
+  "project_name": "todocli",
+  "version": "0.0.0"
+}
