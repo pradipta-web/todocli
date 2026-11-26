@@ -31,8 +31,8 @@
 
 ## Requirements
 
-* **Python** >= 3.10 (kamu menggunakan Python 3.14)
-* **Poetry** (untuk manajemen *dependency* dan *virtual environment*)
+* **Python** >= 3.10
+* **Poetry** 
 
 ## Installation
 
